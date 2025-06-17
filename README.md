@@ -25,23 +25,35 @@ Currently exploring **AWS Cloud**, **AI integrations**, and **biometric tech** t
 
 ### 🚀 Tech Stack
 
-**Languages & Frameworks:**  
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+
+**Frameworks & Libraries:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)  
+![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-**Tools & IDEs:**  
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)  
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
