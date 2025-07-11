@@ -62,7 +62,7 @@ Currently exploring **AWS Cloud**, **AI integrations**, and **biometric tech** t
 ### 📂 Projects
 
 - 🧠 **[TaskHive](https://github.com/vedanti-lead/TaskHive)** — AI-based goal tracking dashboard with sentiment analysis (VADER) & reinforcement learning  
-- 🔍 **[DropSight](https://github.com/vedanti-lead/DropSight)** — Smart attendance & activity tracking system  
+- 🔍 **[DropSight](https://github.com/vedanti-lead/DropSight)** — E-commerce based site on dropshipping
 - 🌿 **GreenNest** — A containerized online plant nursery using microservices, Docker, and Kubernetes concepts  
 - 🔐 **PalmAuth** *(BioPay Internship)* — Flask-based biometric system using Fujitsu’s PalmSecure SDK
 
