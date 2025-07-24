@@ -27,7 +27,6 @@ Currently exploring **AWS Cloud**, **AI integrations**, and **biometric tech** t
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
