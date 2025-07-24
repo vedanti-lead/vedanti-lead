@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 I'm a passionate and curious tech explorer currently specializing in **Cloud Computing & Virtualization**.  
 I love building intelligent systems that feel human, scalable, and useful.  
-Currently exploring **AWS Cloud**, **AI integrations**, and **biometric tech** through my internship at **BioPay**.  
+Currently exploring **AWS Cloud**, **AI integrations**, and **Biometric Tech** through my internship at **BioPay**.  
 
 - 🔭 I’m currently working on:  
   - A **biometric authentication system** using Flask & PalmSecure SDK  
